@@ -8,7 +8,7 @@ client/app/**/*.js
 client/*.log
 
 server/node_modules/
-server/app/*.db
+server/*.db
 server/*.log
 
 
